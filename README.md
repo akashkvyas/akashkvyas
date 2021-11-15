@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashkvyas
 - 👀 I’m interested in open source development and C++
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning cognition and machine learning.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : akashkv@umich.edu
 
