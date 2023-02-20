@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashkvyas
 - 👀 I’m interested in C++, Rust, and Python
-- 🌱 I’m currently learning operating systems.
+- 🌱 I’m currently learning web systems.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : akashkv@umich.edu
 
