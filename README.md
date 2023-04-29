@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @akashkvyas
-- 👀 I’m interested in C++, Rust, and Python
-- 🌱 I’m currently learning web systems.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me : akashkv@umich.edu
+hello party people
+
+while you stalk here's my spotify: 
+
+if you want to collaborate: akashkvyas@gmail.com
 
 <!---
 akashkvyas/akashkvyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
