@@ -1,6 +1,6 @@
 hello party people
 
-while you stalk here's my spotify: 
+while you stalk here's my spotify: https://open.spotify.com/user/nijdcqqhobvpum0lndkpxz2lv?si=5ed6ebbb47c846da
 
 if you want to collaborate: akashkvyas@gmail.com
 
