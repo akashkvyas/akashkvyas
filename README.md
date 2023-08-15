@@ -1,4 +1,4 @@
-hello party people
+hello
 
 i am a student at the university of michigan and i study computer science!
 
